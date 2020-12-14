@@ -37,9 +37,9 @@ dependencies {
 }
 
 //项目主页
-def siteUrl = 'https://gitee.com/poplar333/frame-view'
+def siteUrl = 'https://github.com/snowoverflow/frame-view'
 //项目的git地址
-def gitUrl = 'https://gitee.com/poplar333/frame-view.git'
+def gitUrl = 'https://github.com/snowoverflow/frame-view.git'
 //发布到JCenter上的项目名字
 def libName = "FastUI"
 group = "com.yangjl"
